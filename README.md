@@ -1,5 +1,6 @@
 # Work Day Scheduler Starter Code
 
+<<<<<<< HEAD
 User story:
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -19,3 +20,6 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+=======
+![image](https://user-images.githubusercontent.com/87097621/132101964-e4b46f98-d695-4bee-8af2-cfe0716ed191.png)
+>>>>>>> 3c860c943bc3fb9a4a6bd05f7b2db5b63a0582b4
